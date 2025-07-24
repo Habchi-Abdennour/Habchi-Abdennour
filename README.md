@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Habchi-Abdennour
-- 👀 I’m interested in Data Engineering, Artificial Intelligence, and Web Development.
-- 🌱 I’m currently learning Data Engineering and mastering Django and FastAPI.
-- 💞️ I’m looking to collaborate on projects related to AI, data pipelines, or web frameworks.
+- 👀 I’m interested in Artificial Intelligence, and Web Development.
+- 🌱 I’m currently learning Machine Learning and mastering Django and FastAPI.
+- 💞️ I’m looking to collaborate on projects related to AI, or web frameworks.
 - 📫 How to reach me: <br> <li><strong>Email:</strong> habchi.abdennour.17@gmail.com</li> <li><strong>Phone:</strong> +213 0669183094</li>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m also learning French and enjoy exploring new technologies in my free time!
+- ⚡ Fun fact:
 
 <!---
 Habchi-Abdennour/Habchi-Abdennour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
